@@ -1,4 +1,4 @@
 # Text-Animation
 👍Text Animation ✔️Using Html, CSS and JavaScript
 
-Live Link: https://rayhan-al-shorif.github.io/Text-Animation
+Live Link: https://rayhanalshorif133.github.io/Simple-Text-Animation
